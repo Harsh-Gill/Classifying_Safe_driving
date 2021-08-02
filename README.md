@@ -21,11 +21,11 @@ Are they driving attentively, wearing their seatbelt, or taking a selfie with th
 It is a simple model using transfer learning from the VGG-16 architecture, it resizes the driver images to fit the transfer learning. It uses Keras code to define data generators and uses categorical accuracy metric to determine model accuracy.
 
 ![Alt text](https://neurohive.io/wp-content/uploads/2018/11/vgg16-neural-network.jpg "Title")
-# credits to : https://neurohive.io/en/popular-networks/vgg16/
+credits to : https://neurohive.io/en/popular-networks/vgg16/
 
 
 
-The model currently places in the top 20% in the Kaggle leaderboard, with a score loss of 1.58852
-Its accuracy on the test and train model is around 80% currently.
+#The model currently places in the top 20% in the Kaggle leaderboard, with a score loss of 1.58852
+#Its accuracy on the test and train model is around 80% currently.
 
 
