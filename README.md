@@ -26,6 +26,6 @@ It is a simple model using transfer learning from the VGG-16 architecture, it re
 
 
 The model currently places in the top 20% in the Kaggle leaderboard, with a score loss of 1.58852
-
+Its accuracy on the test and train model is around 80% currently.
 
 
